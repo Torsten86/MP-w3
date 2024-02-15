@@ -16,3 +16,4 @@ my calculations for the yellow and red text is ((365*2)+(9*30))=1000 for Red tex
 i started with a hardcoded list to get all the info in the program, and chek my methods for solving most of the problems.
 Aftter that was clear i kept 2 hardcoded items, and switched the rest to user inputs, to prevent having to write alot for each printout chek i tried ot minimize the nessesary input.
 
+I am using "computer" and "phone" as set values to be abel to use inheritance from the Item class, thought it would be wrong to solve the project without using the lesson from this week
