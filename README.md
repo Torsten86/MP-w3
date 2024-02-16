@@ -1,8 +1,8 @@
 i have done all 3 levels.
 
 As i understand the project description we are sorting our table first on Country and then on PurchaseDate.
-In my opinion there are some conflicting information between levgel 2 and elvel 3 on that issue.
-Level 2 says to sort on Item first and on PurchaseDate second, and level 3 says to sort on Country first and PurchaseDate second
+In my opinion there are some conflicting information between level 2 and level 3 on that issue.
+Level 2 says to sort on Item first (computer / phone) and on PurchaseDate second, and level 3 says to sort on Country first and PurchaseDate second
 
 Used a list and user input just like we did in the project for week 2, i also copied the navigation from week 2.
 
